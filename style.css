@@ -1,0 +1,7 @@
+body { background: #510567; margin: 0; font-family: sans-serif; }
+.analytics-view { padding: 45px; display: flex; }
+.block-session-0 { color: #1feceb; font-size: 20px; margin-bottom: 5px; }
+.block-order-1 { color: #737d92; font-size: 15px; margin-bottom: 5px; }
+.block-token-2 { color: #74ab0; font-size: 16px; margin-bottom: 5px; }
+.block-product-3 { color: #2b62c2; font-size: 16px; margin-bottom: 5px; }
+.block-invoice-4 { color: #a2c542; font-size: 17px; margin-bottom: 5px; }
