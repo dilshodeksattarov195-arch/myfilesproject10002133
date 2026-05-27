@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervalidate",
+        "uuid": 21500640,
+        "checksum": "qkc34ji"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
